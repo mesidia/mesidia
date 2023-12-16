@@ -1,4 +1,4 @@
-Yo, I’m @mesidia
+Yo, I’m @mesidia.
 I’m interested in writing competative programming, making scripts, and problem solving.
 I’m trying to learn a bit of rust.
 
